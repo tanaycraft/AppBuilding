@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Turtle Rock</string>
+		<key>category</key>
+		<string>Rivers</string>
+		<key>city</key>
+		<string>Twentynine Palms</string>
+		<key>state</key>
+		<string>California</string>
+		<key>id</key>
+		<integer>1001</integer>
+		<key>isFeatured</key>
+		<true/>
+		<key>isFavorite</key>
+		<true/>
+		<key>park</key>
+		<string>Joshua Tree National Park</string>
+		<key>coordinates</key>
+		<dict>
+			<key>longitude</key>
+			<real>-116.166868</real>
+			<key>latitude</key>
+			<real>34.011286</real>
+		</dict>
+		<key>description</key>
+		<string>Bordered by the University of California Irvine, Turtle Rock is a residential area home to several parks and golf courses, as well as Concordia University Irvine. The Turtle Rock Trail features the Turtle Rock Outcropping landmark, and city vistas from Turtle Rock Viewpoint. Programs and activities like full moon hikes are popular at Bommer Canyon Nature Trail.</string>
+		<key>imageName</key>
+		<string>turtlerock</string>
+	</dict>
+</array>
+</plist>

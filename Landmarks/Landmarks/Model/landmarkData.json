@@ -1,0 +1,206 @@
+[
+    {
+        "name": "Turtle Rocks",
+        "category": "Rivers",
+        "city": "Twentynine Palms",
+        "state": "California",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "rating": 5,
+        "description": "Bordered by the University of California Irvine, Turtle Rock is a residential area home to several parks and golf courses, as well as Concordia University Irvine. The Turtle Rock Trail features the Turtle Rock Outcropping landmark, and city vistas from Turtle Rock Viewpoint. Programs and activities like full moon hikes are popular at Bommer Canyon Nature Trail.",
+        "imageName": "turtlerock"
+    },
+    {
+        "name": "Silver Salmon Creeks",
+        "category": "Lakes",
+        "city": "Port Alsworth",
+        "state": "Alaska",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "rating": 4,
+        "description": "Silver Salmon Creek Lodge is a premier vacation destination for wildlife photography, world-class sport fishing and Alaska bear viewing. Under the same management since 1983, hosts David and Joanne Coray welcome all national and international guests.",
+        "imageName": "silversalmoncreek"
+    },
+    {
+        "name": "Chilkoot Trail",
+        "category": "Mountains",
+        "city": "Skagway",
+        "state": "Alaska",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Klondike Gold Rush National Historical Park",
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "rating": 4,
+        "description": "The Chilkoot Trail is a 33-mile trail through the Coast Mountains that leads from Dyea, Alaska, in the United States, to Bennett, British Columbia, in Canada. It was a major access route from the coast to Yukon goldfields in the late 1890s.",
+        "imageName": "chilkoottrail"
+    },
+    {
+        "name": "St. Mary Lake",
+        "category": "Lakes",
+        "city": "Browning",
+        "state": "Montana",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.536248,
+            "latitude": 48.69423
+        },
+        "rating": 3,
+        "description": "Saint Mary Lake is the second-largest lake in Glacier National Park, in the U.S. state of Montana. Located on the east side of the park, Going-to-the-Sun Road parallels the lake along its north shore.",
+        "imageName": "stmarylake"
+    },
+    {
+        "name": "Twin Lake",
+        "category": "Lakes",
+        "city": "Twin Lakes",
+        "state": "Alaska",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "rating": 2,
+        "description": "Twin Lakes is a complex of two large lakes in Lake Clark National Park in the U.S. state of Alaska, near the northeast corner of Lake and Peninsula Borough. It contains a 6-mile-long upper lake and a smaller 4-mile-long lower lake, joined by a short connecting stream.",
+        "imageName": "twinlake"
+    },
+    {
+        "name": "Lake McDonald",
+        "category": "Mountains",
+        "city": "West Glacier",
+        "state": "Montana",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.934831,
+            "latitude": 48.56002
+        },
+        "rating": 5,
+        "description": "Lake McDonald is the largest lake in Glacier National Park. It is located at 48°35′N 113°55′W in Flathead County in the U.S. state of Montana. Lake McDonald is approximately 10 miles long, and over a mile wide and 472 feet deep, filling a valley formed by a combination of erosion and glacial activity.",
+        "imageName": "lakemcdonald"
+    },
+    {
+        "name": "Charley Rivers",
+        "category": "Rivers",
+        "city": "Eaking",
+        "state": "Alaska",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Charley Rivers National Preserve",
+        "coordinates": {
+            "longitude": -143.122586,
+            "latitude": 65.350021
+        },
+        "rating": 3,
+        "description": "The Charley River is an 88-mile tributary of the Yukon River in the U.S. state of Alaska. Flowing generally northeast from the Mertie Mountains in the northeastern part of the state, the river lies entirely within Yukon–Charley Rivers National Preserve.",
+        "imageName": "charleyrivers"
+    },
+    {
+        "name": "Icy Bay",
+        "category": "Mountains",
+        "city": "Icy Bay",
+        "state": "Alaska",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Wrangell-St. Elias National Park and Preserve",
+        "coordinates": {
+            "longitude": -141.518167,
+            "latitude": 60.089917
+        },
+        "rating": 1,
+        "description": "Icy Bay is a body of water in the borough of Yakutat, Alaska, formed in the last 100 years by the rapid retreat of the Guyot, Yahtse, and Tyndall Glaciers. It is part of the Wrangell-Saint Elias Wilderness.",
+        "imageName": "icybay"
+    },
+    {
+        "name": "Rainbow Lake",
+        "category": "Lakes",
+        "city": "Willow",
+        "state": "Alaska",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "State Recreation Area",
+        "coordinates": {
+            "longitude": -150.086103,
+            "latitude": 61.694334
+        },
+        "rating": 2,
+        "description": "Rainbow Lake is a lake located just 3.8 miles from Willow, in Matanuska-Susitna Borough, in the state of Alaska, United States, near Willow Lake, AK. Fishermen will find that there are no fish here. That's right, no fish. No rainbows, no steelies, no pinks, no perch, no muskies. Nothing. So keep looking for another spot nearby and you'll be glad you did.",
+        "imageName": "rainbowlake"
+    },
+    {
+        "name": "Hidden Lake",
+        "category": "Lakes",
+        "city": "Newhalem",
+        "state": "Washington",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "North Cascades National Park",
+        "coordinates": {
+            "longitude": -121.17799,
+            "latitude": 48.495442
+        },
+        "rating": 3,
+        "description": "Hidden Lake is located immediately east of Hidden Lake Peaks in North Cascades National Park, in the U. S. state of Washington. Hidden Lake is off designated trails but can reached by way a trailhead off the Cascade River Road from Snoqualmie National Forest.",
+        "imageName": "hiddenlake"
+    },
+    {
+        "name": "Chincoteague",
+        "category": "Rivers",
+        "city": "Chincoteague",
+        "state": "Virginia",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Chincoteague National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -75.383212,
+            "latitude": 37.91531
+        },
+        "rating": 4,
+        "description": "Chincoteague is a town on the island of the same name, in Virginia’s Eastern Shore region. It’s a gateway to Chincoteague National Wildlife Refuge, on Assateague Island, which has beaches and wild Chincoteague ponies. The breed is showcased at the Chincoteague Pony Centre. Oyster-industry artifacts and model boats are displayed at the Museum of Chincoteague Island. Veteran’s Memorial Park has a pier and water views.",
+        "imageName": "chincoteague"
+    },
+    {
+        "name": "Lake Umbagog",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "New Hampshire",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "rating": 1,
+        "description": "Umbagog Lake is a wilderness lake located in Coös County, New Hampshire, and Oxford County, Maine. It is one of the most pristine lakes in the state of New Hampshire. It lies in the towns of Errol, New Hampshire, and Upton, Maine, as well as the townships of Cambridge, New Hampshire, and Magalloway Plantation, Maine.",
+        "imageName": "umbagog"
+    }
+]
